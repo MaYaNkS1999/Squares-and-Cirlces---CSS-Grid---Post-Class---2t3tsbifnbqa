@@ -16,3 +16,7 @@
   background-color: blue;
   border-radius: 50%;
 }
+div{
+  margin: 10px;
+  box-sizing: border-box;
+}
