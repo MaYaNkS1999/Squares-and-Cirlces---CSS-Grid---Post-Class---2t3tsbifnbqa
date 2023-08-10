@@ -8,6 +8,8 @@
 .inner-square {
   /* your css goes here */
   background-color: green;
+  margin: 10px 10px 10px 10px;
+  box-sizing: border-box;
   
   
 }
@@ -15,8 +17,7 @@
   /* your css goes here */
   background-color: blue;
   border-radius: 50%;
-}
-div{
   margin: 10px 10px 10px 10px;
   box-sizing: border-box;
 }
+
